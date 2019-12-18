@@ -1,2 +1,2 @@
-# 3BodyProblem
-A jupyter notebook to study and simulate the Three-Body Problem in 3-dimensional space
+# NBodyProblem
+A jupyter notebook to study and simulate the N-Body Problem in D-dimensional space
